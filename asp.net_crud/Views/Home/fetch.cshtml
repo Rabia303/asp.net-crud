@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Employee>
+@{
+    ViewData["Title"] = "fetch";
+}
+
+<h1>fetch</h1>
+
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Email</th>
+        <th colspan="2">Action</th>
+    </tr>
+    @foreach(var i in Model)
+    {
+        <tr>
+            <td>@i.e_Id</td>
+            <td>@i.e_Name</td>
+            <td>@i.e_age</td>
+            <td>@i.e_email</td>
+            <td><a asp-action="edit" asp-route-e_Id="@i.e_Id">Edit</a></td>
+            <td><a asp-action="delete" asp-route-e_Id="@i.e_Id">delete</a></td>
+        </tr>
+    }
+</table>

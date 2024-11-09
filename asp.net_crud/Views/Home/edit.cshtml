@@ -1,0 +1,13 @@
+﻿@model Employee
+@{
+    ViewData["Title"] = "edit";
+}
+
+<h1>edit</h1>
+
+<form method="post">
+    <input type="text" asp-for="e_Name" />
+    <input type="number" asp-for="e_age" />
+    <input type="text" asp-for="e_email" />
+    <input type="submit" value="edit" />
+</form>

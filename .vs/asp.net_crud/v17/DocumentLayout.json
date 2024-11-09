@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\asp.net_crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|c:\\users\\hp\\desktop\\asp.net_crud\\asp.net_crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|solutionrelative:asp.net_crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|c:\\users\\hp\\desktop\\asp.net_crud\\asp.net_crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|solutionrelative:asp.net_crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|c:\\users\\hp\\desktop\\asp.net_crud\\asp.net_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|solutionrelative:asp.net_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|c:\\users\\hp\\desktop\\asp.net_crud\\asp.net_crud\\models\\abccompdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|solutionrelative:asp.net_crud\\models\\abccompdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|c:\\users\\hp\\desktop\\asp.net_crud\\asp.net_crud\\migrations\\abccompdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|solutionrelative:asp.net_crud\\migrations\\abccompdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|c:\\users\\hp\\desktop\\asp.net_crud\\asp.net_crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|solutionrelative:asp.net_crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|c:\\users\\hp\\desktop\\asp.net_crud\\asp.net_crud\\views\\home\\fetch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|solutionrelative:asp.net_crud\\views\\home\\fetch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|c:\\users\\hp\\desktop\\asp.net_crud\\asp.net_crud\\views\\home\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|solutionrelative:asp.net_crud\\views\\home\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|c:\\users\\hp\\desktop\\asp.net_crud\\asp.net_crud\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|solutionrelative:asp.net_crud\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|c:\\users\\hp\\desktop\\asp.net_crud\\asp.net_crud\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|solutionrelative:asp.net_crud\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|c:\\users\\hp\\desktop\\asp.net_crud\\asp.net_crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF9F1818-AD02-4425-8287-99A17FFFC5C9}|asp.net_crud\\asp.net_crud.csproj|solutionrelative:asp.net_crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AbcCompDBcontextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Migrations\\AbcCompDBcontextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "asp.net_crud\\Migrations\\AbcCompDBcontextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Migrations\\AbcCompDBcontextModelSnapshot.cs",
+              "RelativeToolTip": "asp.net_crud\\Migrations\\AbcCompDBcontextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:40:17.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "asp.net_crud\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "asp.net_crud\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:40:18.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "asp.net_crud\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "asp.net_crud\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T02:40:18.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbcCompDBcontext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Models\\AbcCompDBcontext.cs",
+              "RelativeDocumentMoniker": "asp.net_crud\\Models\\AbcCompDBcontext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Models\\AbcCompDBcontext.cs",
+              "RelativeToolTip": "asp.net_crud\\Models\\AbcCompDBcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:40:18.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Program.cs",
+              "RelativeDocumentMoniker": "asp.net_crud\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Program.cs",
+              "RelativeToolTip": "asp.net_crud\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:40:18.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "insert.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Views\\Home\\insert.cshtml",
+              "RelativeDocumentMoniker": "asp.net_crud\\Views\\Home\\insert.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Views\\Home\\insert.cshtml",
+              "RelativeToolTip": "asp.net_crud\\Views\\Home\\insert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T02:40:18.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Views\\Home\\edit.cshtml",
+              "RelativeDocumentMoniker": "asp.net_crud\\Views\\Home\\edit.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Views\\Home\\edit.cshtml",
+              "RelativeToolTip": "asp.net_crud\\Views\\Home\\edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T02:40:18.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "asp.net_crud\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Models\\Employee.cs",
+              "RelativeToolTip": "asp.net_crud\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:40:18.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fetch.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Views\\Home\\fetch.cshtml",
+              "RelativeDocumentMoniker": "asp.net_crud\\Views\\Home\\fetch.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Views\\Home\\fetch.cshtml",
+              "RelativeToolTip": "asp.net_crud\\Views\\Home\\fetch.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T02:40:18.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "asp.net_crud\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "asp.net_crud\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T02:40:18.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "asp.net_crud\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\asp.net_crud\\asp.net_crud\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "asp.net_crud\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T02:40:18.309Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
